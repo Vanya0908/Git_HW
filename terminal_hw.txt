@@ -112,7 +112,7 @@ nano script1.sh
 #!/bin/bash
 
 cd folder_1
-mrdir folder_3 folder_4 folder_5
+mkdir folder_3 folder_4 folder_5
 cd folder_3
 touch file1.txt file2.txt file3.txt file1.json file2.json
 mkdir folder_3 folder_4 folder_5
